@@ -1,1 +1,1 @@
-This is just a test!
+Welcome to my website. I'm currently in the process of updating the theme and deciding how to break down the different sections of the site. Check back here for cyber security blog posts, updates on personal projects, and more!
